@@ -17,3 +17,5 @@ São ferramentas que por meio delas eu consigo mandar meu projeto do VsCode para
 ### Finalizando 
 * apenas para mandar mais esse salvamento.
 projeto feito por: **Marcio**
+
+* Lembrando apos o git add, vem o git commit, e para enviar o git push.
