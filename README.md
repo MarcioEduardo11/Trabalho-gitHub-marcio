@@ -14,3 +14,6 @@ São ferramentas que por meio delas eu consigo mandar meu projeto do VsCode para
 * De um git status
 * De um git add .
 * De git commit -m ""
+### Finalizando 
+* apenas para mandar mais esse salvamento.
+projeto feito por: **Marcio**
