@@ -20,4 +20,7 @@ projeto feito por: **Marcio**
 
 * Lembrando apos o git add, vem o git commit, e para enviar o git push.
 
+# Teste de Clonagem
+* Aula do dia 27 *Aula 3*
+.................
 
