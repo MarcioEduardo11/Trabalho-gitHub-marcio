@@ -8,7 +8,8 @@ São ferramentas que por meio delas eu consigo mandar meu projeto do VsCode para
 * Crie um novo arquivo
 * Crie o README.md
 * Abra o terminal
-* De um "git version" para ver a versão 
+* De um "git version" para ver a versão
+* De um git init
 * De um git config --global user.name "Marcio"
 * De um git config --global user.email "engs-marcioaraujo@camporeal.edu.br"
 * De um git status
